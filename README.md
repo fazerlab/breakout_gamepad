@@ -5,6 +5,8 @@ Demonstração de utilização:
 
 https://www.youtube.com/watch?v=F542U4fKL44&t=9s
 
-[<img src="https://i.ytimg.com/vi/F542U4fKL44U/default.jpg" width="75%">](https://www.youtube.com/watch?v=F542U4fKL44 "Now in Android: 55")
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F542U4fKL44" target="_blank">
+ <img src="http://img.youtube.com/vi/F542U4fKL44/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 O Hardware MeMoO (Medição de Movimento e Orientação) 
